@@ -15,6 +15,7 @@
   <li>👯 I’m looking to collaborate on <strong>UI/UX, MERN Projects</strong></li>
   <li>💬 Ask me about <strong>Java, Python, JavaScript, DBMS, React, Figma</strong></li>
   <li>📫 How to reach me <strong>ashwinmurugan46@gmail.com</strong></li>
+  <li>👨‍💻 portfolio website : https://ashwinmurugan46.wixsite.com/ash1</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
